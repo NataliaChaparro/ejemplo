@@ -6,6 +6,7 @@
 </head>
 
 <body>
+<h1>Hola que tal</h1>
 	<h1>Numeros pares</h1>
 	<?php
 	$acu=0;
